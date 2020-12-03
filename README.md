@@ -6,7 +6,7 @@ Taken from learn enough...
 
 There's not much here to read right now.
 
-If you want to know more, do a search for >Learn enough
+If you want to know more, do a search for "Learn enough"
 
 The quick brown fox jumped over the lazy
 dog's back.
